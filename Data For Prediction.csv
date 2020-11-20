@@ -1159,7 +1159,7 @@ year,movie,certificate,genre,rate,metascore,votes,gross,user_reviews,critic_revi
 2016,Why Him?,6,Comedy,6.5999999,39,10274,51830000,64,107,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2016,The Girl with All the Gifts,6,Drama|Horror|Thriller,6.9000001,69,8335,106028216.3,57,101,48,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2016,Nocturnal Animals,6,Drama|Thriller,7.69999981,67,46191,10430000,227,337,34,2,40,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0
-2017,Darkest Hour,5,Biography|Drama|History,7.4000001,75,28135,45200000,229,286,8,10,24,0,1,0,0,0,1,0,0,0,1,3,0,2,1,5,0
+2017,Darkest Hour,5,Biography|Drama|History,7.4000001,75,28135,45200000,229,286,8,10,24,0,1,0,0,1,1,0,0,0,1,3,0,2,1,5,0
 2016,Patriots Day,6,Drama|History|Thriller,7.5999999,69,7375,14680000,79,130,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2016,Loving,5,Biography|Drama|Romance,7.0999999,79,9367,159615,65,199,117,0,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,3,4
 2016,Collateral Beauty,5,Drama|Romance,6.5999999,23,11436,29850000,96,131,64,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1168,7 +1168,7 @@ year,movie,certificate,genre,rate,metascore,votes,gross,user_reviews,critic_revi
 2016,Split,5,Horror|Thriller,7.5999999,76,2416,106028216.3,77,193,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2016,Moonlight,6,Drama,8.5,99,14324,11480000,136,217,15,24,79,1,1,0,1,0,0,0,0,3,4,0,0,8,16,0,0
 2017,Dunkirk,5,Action|Drama|History,8.10000038,94,331183,188370000,1679,580,26,9,43,0,1,0,1,0,0,0,0,0,2,0,0,6,12,0,0
-2017,"Three Billboards Outside Ebbing, Missouri",6,Crime|Drama,8.30000019,88,71689,37250000,369,408,4,22,57,0,1,0,0,0,0,0,1,2,0,0,3,5,6,0,7
+2017,"Three Billboards Outside Ebbing, Missouri",6,Crime|Drama,8.30000019,88,71689,37250000,369,408,4,22,57,0,1,0,0,0,0,1,1,2,0,0,3,5,6,0,7
 2017,Get Out,6,Horror|Mystery|Thriller,7.69999981,84,241946,175850000,832,633,15,17,46,0,1,0,1,0,1,0,0,2,0,1,0,5,12,5,0
 2016,Jim: The James Foley Story,2,Documentary|Biography,7.80000019,73,631,106028216.3,3,19,1297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2017,All the Money in the World,6,Biography|Crime|Drama,7.0999999,72,11044,24530000,94,193,51,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
