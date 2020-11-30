@@ -1,8 +1,8 @@
 # DA-Assignment
 # Folder Preciiton Models contains the following models
-1. ActorPrediction.ipynb --> Best Actor Prediction Model
-2. ActressPrediction.ipynb --> Best Actress Prediction Model
-3. DirectorPrediction.ipynb --> Best Director Prediction Model
+1. DirectorPrediction.ipynb --> Best Director Prediction Model (Code demonstartion is shown in the video)
+2. ActorPrediction.ipynb --> Best Actor Prediction Model
+3. ActressPrediction.ipynb --> Best Actress Prediction Model
 4. PciturePrediction.ipynb --> Best Pciture Prediction Model
 
 
